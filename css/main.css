@@ -1,0 +1,66 @@
+
+.booklog-header{
+	height:130px;
+	background-image: url('../img/booklog-header.png');
+	background-repeat: repeat-x;
+	
+}
+
+#booklog-title{
+	font-size: 60px;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	color:#FFF;
+	padding-top:33px;
+	text-shadow: #000 1px 1px 2px;
+}
+.booklog-titlebar{
+	font-size: 30px;
+	text-align: center;
+	border-bottom:2px solid #d5d5d5;
+	margin-bottom: 35px;
+}
+
+.booklog-titlebar h1{
+	display:inline-block;
+	padding:0 12px;
+	font-family: 'Droid Serif', serif;
+	position:relative;
+	background:#FFF;
+  	top:16px;
+	color:#DDD;
+	padding-top:50px;
+}
+
+.booklog-footer{
+	background-color: #4ba37b;
+	text-shadow: #000 0px 0px 1px;
+}
+
+.booklog-footer p{
+	text-align: center;
+	color:#FFF;
+	padding-top:5px;
+	font-size: 14px;
+	font-family: 'Lobster', cursive;
+}
+
+.container{
+	
+}
+
+.booktag-tag{
+	background-color: #000;
+	padding:3px 8px;
+	color:#FFF;
+	text-align:center;
+}
+
+.hero{
+	background: url('http://media.dexigner.com/article/19941/Food_for_Thought_01.jpg') no-repeat center center fixed;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	text-align:center;
+}
